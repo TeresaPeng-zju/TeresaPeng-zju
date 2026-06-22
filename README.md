@@ -12,8 +12,6 @@ I'm a Full-Stack Engineer at Tencent and a graduate of Zhejiang University.
 
 My journey into Computer Science started from Computational Linguistics, where I explored the connection between language and technology. This background gradually led me into software engineering, AI applications, and building intelligent systems.
 
-I enjoy turning ideas into products — from developer tools and web applications to AI-powered experiences.
-
 
 ## Experience
 
