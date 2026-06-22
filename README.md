@@ -1,16 +1,77 @@
-## Hi there 👋
+<svg align="right" width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="100" cy="100" r="97"/>
+    </clipPath>
+  </defs>
+  <circle cx="100" cy="100" r="99" fill="#ccc"/>
+  <image href="./assets/mutsumi.jpg" x="0" y="0" width="200" height="200" clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
 
-<!--
-**TeresaPeng-zju/TeresaPeng-zju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yuxin Peng 👋
 
-Here are some ideas to get you started:
+> Let your curiosity be greater than your fear.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Exploring the intersection of language, software, and intelligence.**
+
+## About Me
+
+I'm a Full-Stack Engineer at Tencent and a graduate of Zhejiang University.
+
+My journey into Computer Science started from Computational Linguistics, where I explored the connection between language and technology. This background gradually led me into software engineering, AI applications, and building intelligent systems.
+
+I enjoy turning ideas into products — from developer tools and web applications to AI-powered experiences.
+
+## Currently Exploring
+
+- 🤖 Agent Systems
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 LLM Applications
+- 🛠 Full-Stack Engineering
+- 🎨 Developer Experience
+
+## Experience
+
+- 🟢 Tencent · WeChat
+- 🔵 Alibaba · Taobao
+
+## Tech Stack
+
+**Frontend**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" width="45" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="45" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="45" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" width="45" title="Vue" />
+</div>
+
+**Backend**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="45" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" width="45" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="45" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" width="45" title="Prisma" />
+</div>
+
+**AI Engineering**
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/openai/openai-original.svg" height="35" width="45" title="OpenAI / LLMs" />
+</div>
+
+**Database**
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="45" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="45" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/pgvector/pgvector-original.svg" height="35" width="45" title="pgvector" />
+</div>
+
+## Beyond Code
+
+- 📷 Photography
+- 🎾 Tennis
+- ✈️ Traveling
+- 📚 Learning and building with AI
