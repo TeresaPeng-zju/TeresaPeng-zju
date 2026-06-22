@@ -8,7 +8,7 @@ Computational Linguistics → Educational Technology → Software Engineering
 
 ## About Me
 
-I'm a Software Engineering at Tencent and a graduate of Zhejiang University.
+I'm a Software Engineer at Tencent and a graduate of Zhejiang University.
 
 My journey into Computer Science started from Computational Linguistics, where I explored the connection between language and technology. This background gradually led me into software engineering, AI applications, and building intelligent systems.
 
