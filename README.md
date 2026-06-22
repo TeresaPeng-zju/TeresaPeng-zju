@@ -14,13 +14,6 @@ My journey into Computer Science started from Computational Linguistics, where I
 
 I enjoy turning ideas into products — from developer tools and web applications to AI-powered experiences.
 
-## Currently Exploring
-
-- 🤖 Agent Systems
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🧠 LLM Applications
-- 🛠 Full-Stack Engineering
-- 🎨 Developer Experience
 
 ## Experience
 
