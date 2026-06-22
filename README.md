@@ -4,7 +4,7 @@
 
 > Let your curiosity be greater than your fear.
 
-**Exploring the intersection of language, software, and intelligence.**
+Language → Computational Linguistics → Software Engineering → AI
 
 ## About Me
 
@@ -60,4 +60,3 @@ I enjoy turning ideas into products — from developer tools and web application
 - 📷 Photography
 - 🎾 Tennis
 - ✈️ Traveling
-```
