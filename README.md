@@ -1,14 +1,6 @@
-<svg align="right" width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="circle">
-      <circle cx="100" cy="100" r="97"/>
-    </clipPath>
-  </defs>
-  <circle cx="100" cy="100" r="99" fill="#ccc"/>
-  <image href="./assets/mutsumi.jpg" x="0" y="0" width="200" height="200" clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
-</svg>
 
-# Hi, I'm Yuxin Peng 👋
+
+# Hi, I'm Yuxin 👋
 
 > Let your curiosity be greater than your fear.
 
@@ -55,18 +47,12 @@ I enjoy turning ideas into products — from developer tools and web application
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" width="45" title="Prisma" />
 </div>
 
-**AI Engineering**
-
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/openai/openai-original.svg" height="35" width="45" title="OpenAI / LLMs" />
-</div>
 
 **Database**
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" width="45" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="45" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/pgvector/pgvector-original.svg" height="35" width="45" title="pgvector" />
 </div>
 
 ## Beyond Code
