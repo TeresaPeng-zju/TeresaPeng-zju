@@ -60,4 +60,4 @@ I enjoy turning ideas into products — from developer tools and web application
 - 📷 Photography
 - 🎾 Tennis
 - ✈️ Traveling
-- 📚 Learning and building with AI
+```
