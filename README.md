@@ -4,7 +4,7 @@
 
 > Let your curiosity be greater than your fear.
 
-Language → Computational Linguistics → Software Engineering → AI
+Computational Linguistics → Educational Technology → Software Engineering → AI
 
 ## About Me
 
