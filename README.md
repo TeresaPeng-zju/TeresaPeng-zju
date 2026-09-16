@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Yuxin 👋
 
 > Let your curiosity be greater than your fear.
@@ -8,15 +6,17 @@ Computational Linguistics → Educational Technology → Software Engineering
 
 ## About Me
 
-I'm a Software Engineer at Tencent and a graduate of Zhejiang University.
+I'm an AI Infrastructure Engineer at Ant Group with a master's degree from Zhejiang University.
 
-My journey into Computer Science started from Computational Linguistics, where I explored the connection between language and technology. This background gradually led me into software engineering, AI applications, and building intelligent systems.
+My journey into Computer Science started with Computational Linguistics, where I explored the intersection of language and technology. Over time, this curiosity led me into software engineering, AI systems, and building intelligent applications.
 
+Today, I'm particularly interested in AI infrastructure, evaluation, agent systems, and full-stack engineering.
 
 ## Experience
 
-- 🟢 Tencent · WeChat
-- 🔵 Alibaba · Taobao
+* 🔵 Ant Group · APT
+* 🟢 Tencent · WeChat
+* 🟠 Alibaba · Taobao
 
 ## Tech Stack
 
@@ -38,7 +38,6 @@ My journey into Computer Science started from Computational Linguistics, where I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="35" width="45" title="Prisma" />
 </div>
 
-
 **Database**
 
 <div>
@@ -48,6 +47,6 @@ My journey into Computer Science started from Computational Linguistics, where I
 
 ## Beyond Code
 
-- 📷 Photography
-- 🎾 Tennis
-- ✈️ Traveling
+* 📷 Photography
+* 🎾 Tennis
+* ✈️ Traveling
