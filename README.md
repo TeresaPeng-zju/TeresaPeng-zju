@@ -2,13 +2,13 @@
 
 > Let your curiosity be greater than your fear.
 
-Computational Linguistics → Educational Technology → Software Engineering
+Computational Linguistics → Educational Technology → Software Engineering → AI Infrastructure
 
 ## About Me
 
 I'm an AI Infrastructure Engineer at Ant Group with a master's degree from Zhejiang University.
 
-My journey into Computer Science started with Computational Linguistics, where I explored the intersection of language and technology. Over time, this curiosity led me into software engineering, AI systems, and building intelligent applications.
+My journey into computer science started with Computational Linguistics, where I explored the intersection of language and technology. Over time, this curiosity led me into software engineering, AI systems, and intelligent application development.
 
 Today, I'm particularly interested in AI infrastructure, evaluation, agent systems, and full-stack engineering.
 
